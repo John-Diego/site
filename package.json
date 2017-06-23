@@ -1,0 +1,17 @@
+{
+  "name": "site-base-para-condominio",
+  "version": "1.0.0",
+  "description": "site servira de base para sites do condominio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalize": "^0.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
